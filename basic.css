@@ -1,0 +1,39 @@
+@charset "UTF-8";
+
+p.task {
+  border: 1px solid;
+  margin: 50px auto;
+  position: relative;
+  width: 1100px;
+  padding: 50px;
+}
+
+/* div.line {
+  content: '';
+  display: block;
+  width: 400px;
+  border-bottom: 1px solid #bcbcbc;
+  margin: 1px;
+  position: absolute;
+} */
+
+div.comment {
+  text-align: right;
+  margin-bottom: 30px;
+  /* position: absolute;
+  right: 170px; */
+
+  padding: 10px 170px;
+}
+
+.writer {
+  display: flex;
+  padding: 5px;
+  font-size: 0.9%;
+  /* position: absolute;
+  right: 10px; */
+  justify-content: flex-end;
+}
+span {
+  width: 200px;
+}

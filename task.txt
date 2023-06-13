@@ -1,0 +1,10 @@
+1. myDay01 프로젝트 생성
+2. index.jsp 생성
+3. 사용자에게 나이를 입력받기
+4. MyServlet 서블릿 생성
+5. request.getParameter("key")로 나이 전달받기
+6. 전달받은 나이에 -1 하기!
+7. 결과값을 result.jsp에 전송
+8. 쿼리스트링으로 전송하기 (...?key=value)
+9. result.jsp에서 request.getParameter("key")으로 받기
+10. 알맞은 태그 사이에 받은 값 넣기
