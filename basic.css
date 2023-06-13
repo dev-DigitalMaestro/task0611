@@ -17,6 +17,10 @@ p.task {
   position: absolute;
 } */
 
+ul {
+  list-style: none;
+}
+
 div.comment {
   text-align: right;
   margin-bottom: 30px;
